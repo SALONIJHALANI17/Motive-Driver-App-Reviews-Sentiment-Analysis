@@ -9,11 +9,16 @@ The purpose of this project is analysing the motive driver app reviews data that
 ### Methods Used
 * Data Visualization
 * Machine Learning 
+* Natural Language Processing
 
 ### Technologies
 * Python
 * Pandas
+* Matplotlib
 * NLTK
+* TextBlob
+* Vader
+* Bag of Word Vectorization
 
 
 
